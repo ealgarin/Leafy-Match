@@ -17,7 +17,7 @@ let products = [
     {
         id: 1,
         name: 'Cacti',
-        image: 'cacti.PNG',
+        image: 'cacti.jpg',
         price: 32.99
     },
     {
